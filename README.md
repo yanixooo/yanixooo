@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanixooo&label=Profile%20views&color=0e75b6&style=flat" alt="yanixooo" /> </p>
 
-- 🔭 I’m currently working on **Dicay Media App**
+- 🔭 I’m currently working on **private project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Design patterns**
 
-- 🤝 I’m looking for help with **Nodejs**
+- 🤝 I’m looking for help with **agile development**
 
 - 📝 I regularly write articles on Nonfiction books!
 
-- 💬 Ask me about **JavaScript, Dart**
+- 💬 Ask me about **mern stack, Dart**
 
 - 📫 How to reach me **zengal.lounes@gmail.com**
 
