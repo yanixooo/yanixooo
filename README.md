@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a startup project<br><br>🌱 I’m currently learning system design and architecture<br><br>💬 Ask me about mern stack & UI UX design<br><br>📫 How to reach me zengal.lounes@gmail.com<br><br>⚡ Fun fact I like Reading Books/manga/novels
+🔭 I’m currently working on a private project<br><br>🌱 I’m currently learning system design and architecture<br><br>💬 Ask me about mern stack & UI UX design<br><br>📫 How to reach me zengal.lounes@gmail.com<br><br>⚡ Fun fact I like Reading Books/manga/novels
 
 
 ## 🌐 Socials:
